@@ -1,0 +1,2727 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="74.809456"
+   height="71.341087"
+   viewBox="0 0 74.809457 71.341089"
+   sodipodi:docname="starter (copy).svg"
+   inkscape:version="1.1.2 (08b2f3d93c, 2022-04-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient219129">
+      <stop
+         style="stop-color:#803300;stop-opacity:1;"
+         offset="0"
+         id="stop219125" />
+      <stop
+         style="stop-color:#803300;stop-opacity:0;"
+         offset="1"
+         id="stop219127" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient188429">
+      <stop
+         style="stop-color:#773809;stop-opacity:0.40176471"
+         offset="0"
+         id="stop188425" />
+      <stop
+         style="stop-color:#773809;stop-opacity:1"
+         offset="0.55296642"
+         id="stop198375" />
+      <stop
+         style="stop-color:#773809;stop-opacity:0;"
+         offset="1"
+         id="stop188427" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient137929">
+      <stop
+         style="stop-color:#803300;stop-opacity:1;"
+         offset="0"
+         id="stop137925" />
+      <stop
+         style="stop-color:#803300;stop-opacity:0;"
+         offset="1"
+         id="stop137927" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient109661">
+      <stop
+         style="stop-color:#803300;stop-opacity:1;"
+         offset="0"
+         id="stop109657" />
+      <stop
+         style="stop-color:#803300;stop-opacity:0;"
+         offset="1"
+         id="stop109659" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient95574">
+      <stop
+         style="stop-color:#803300;stop-opacity:1;"
+         offset="0"
+         id="stop95570" />
+      <stop
+         style="stop-color:#803300;stop-opacity:0;"
+         offset="1"
+         id="stop95572" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient28438">
+      <stop
+         style="stop-color:#008080;stop-opacity:1;"
+         offset="0"
+         id="stop28434" />
+      <stop
+         style="stop-color:#008080;stop-opacity:0;"
+         offset="1"
+         id="stop28436" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient26784">
+      <stop
+         style="stop-color:#803300;stop-opacity:1;"
+         offset="0"
+         id="stop26780" />
+      <stop
+         style="stop-color:#803300;stop-opacity:0;"
+         offset="1"
+         id="stop26782" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient24686">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop24682" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.2627451;"
+         offset="0.73345715"
+         id="stop26308" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.99823534"
+         offset="1"
+         id="stop24684" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24686"
+       id="linearGradient24688"
+       x1="-57.98056"
+       y1="-54.071472"
+       x2="-58.799915"
+       y2="50.736889"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24686"
+       id="linearGradient26676"
+       gradientUnits="userSpaceOnUse"
+       x1="-57.98056"
+       y1="-54.071472"
+       x2="-58.799915"
+       y2="50.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24686"
+       id="linearGradient26678"
+       gradientUnits="userSpaceOnUse"
+       x1="-57.98056"
+       y1="-54.071472"
+       x2="-58.799915"
+       y2="50.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24686"
+       id="linearGradient26680"
+       gradientUnits="userSpaceOnUse"
+       x1="-57.98056"
+       y1="-54.071472"
+       x2="-58.799915"
+       y2="50.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24686"
+       id="linearGradient26682"
+       gradientUnits="userSpaceOnUse"
+       x1="-57.98056"
+       y1="-54.071472"
+       x2="-58.799915"
+       y2="50.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24686"
+       id="linearGradient26684"
+       gradientUnits="userSpaceOnUse"
+       x1="-57.98056"
+       y1="-54.071472"
+       x2="-58.799915"
+       y2="50.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24686"
+       id="linearGradient26686"
+       gradientUnits="userSpaceOnUse"
+       x1="-57.98056"
+       y1="-54.071472"
+       x2="-58.799915"
+       y2="50.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26786"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26804"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26806"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26808"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26810"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26812"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26814"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26846"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26848"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26850"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26852"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26854"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26856"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26858"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26932"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26934"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26936"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26938"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26940"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26942"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient26944"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27366"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27368"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27370"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27372"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27374"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27376"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27378"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27380"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27382"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27384"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27386"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27388"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27390"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27392"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27635"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27637"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27639"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27641"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27643"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27645"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient27647"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28438"
+       id="linearGradient28440"
+       x1="-246.70911"
+       y1="-528.0401"
+       x2="-171.78831"
+       y2="-512.31976"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28438"
+       id="linearGradient42022"
+       gradientUnits="userSpaceOnUse"
+       x1="-246.70911"
+       y1="-528.0401"
+       x2="-171.78831"
+       y2="-512.31976" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient95574"
+       id="linearGradient95576"
+       x1="194.66098"
+       y1="-405.3685"
+       x2="30.208256"
+       y2="-468.39178"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient95574"
+       id="linearGradient96008"
+       gradientUnits="userSpaceOnUse"
+       x1="194.66098"
+       y1="-405.3685"
+       x2="30.208256"
+       y2="-468.39178" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient95574"
+       id="linearGradient96010"
+       gradientUnits="userSpaceOnUse"
+       x1="194.66098"
+       y1="-405.3685"
+       x2="30.208256"
+       y2="-468.39178" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient95574"
+       id="linearGradient96012"
+       gradientUnits="userSpaceOnUse"
+       x1="194.66098"
+       y1="-405.3685"
+       x2="30.208256"
+       y2="-468.39178" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient95574"
+       id="linearGradient96014"
+       gradientUnits="userSpaceOnUse"
+       x1="194.66098"
+       y1="-405.3685"
+       x2="30.208256"
+       y2="-468.39178" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28438"
+       id="linearGradient96072"
+       gradientUnits="userSpaceOnUse"
+       x1="-246.70911"
+       y1="-528.0401"
+       x2="-171.78831"
+       y2="-512.31976" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28438"
+       id="linearGradient96136"
+       gradientUnits="userSpaceOnUse"
+       x1="-246.70911"
+       y1="-528.0401"
+       x2="-171.78831"
+       y2="-512.31976" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28438"
+       id="linearGradient96138"
+       gradientUnits="userSpaceOnUse"
+       x1="-246.70911"
+       y1="-528.0401"
+       x2="-171.78831"
+       y2="-512.31976" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28438"
+       id="linearGradient96223"
+       gradientUnits="userSpaceOnUse"
+       x1="-246.70911"
+       y1="-528.0401"
+       x2="-171.78831"
+       y2="-512.31976" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28438"
+       id="linearGradient96245"
+       gradientUnits="userSpaceOnUse"
+       x1="-246.70911"
+       y1="-528.0401"
+       x2="-171.78831"
+       y2="-512.31976" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28438"
+       id="linearGradient96421"
+       gradientUnits="userSpaceOnUse"
+       x1="-246.70911"
+       y1="-528.0401"
+       x2="-171.78831"
+       y2="-512.31976" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient109661"
+       id="linearGradient109663"
+       x1="-11.566382"
+       y1="-435.17589"
+       x2="58.462693"
+       y2="-435.17589"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient137929"
+       id="linearGradient137931"
+       x1="102.79103"
+       y1="-283.26074"
+       x2="67.954468"
+       y2="-282.6525"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28438"
+       id="linearGradient138144"
+       gradientUnits="userSpaceOnUse"
+       x1="-246.70911"
+       y1="-528.0401"
+       x2="-171.78831"
+       y2="-512.31976" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient137929"
+       id="linearGradient138146"
+       gradientUnits="userSpaceOnUse"
+       x1="102.79103"
+       y1="-283.26074"
+       x2="67.954468"
+       y2="-282.6525" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient162315"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient162317"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient162319"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient162321"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient162323"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient162325"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient26784"
+       id="linearGradient162327"
+       gradientUnits="userSpaceOnUse"
+       x1="-103.79992"
+       y1="5.736889"
+       x2="-13.799925"
+       y2="5.736889" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient28438"
+       id="linearGradient162329"
+       gradientUnits="userSpaceOnUse"
+       x1="-246.70911"
+       y1="-528.0401"
+       x2="-171.78831"
+       y2="-512.31976" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient109661"
+       id="linearGradient162331"
+       gradientUnits="userSpaceOnUse"
+       x1="-11.566382"
+       y1="-435.17589"
+       x2="58.462693"
+       y2="-435.17589"
+       gradientTransform="matrix(0.35329019,0,0,0.35329019,2.1770613,291.62603)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient188429"
+       id="linearGradient188431"
+       x1="-2.8588514"
+       y1="-168.65808"
+       x2="-236.35843"
+       y2="-168.02582"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient188429"
+       id="linearGradient200237"
+       gradientUnits="userSpaceOnUse"
+       x1="-2.8588514"
+       y1="-168.65808"
+       x2="-236.35843"
+       y2="-168.02582" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient188429"
+       id="linearGradient200239"
+       gradientUnits="userSpaceOnUse"
+       x1="-2.8588514"
+       y1="-168.65808"
+       x2="-236.35843"
+       y2="-168.02582" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient188429"
+       id="linearGradient200241"
+       gradientUnits="userSpaceOnUse"
+       x1="-2.8588514"
+       y1="-168.65808"
+       x2="-236.35843"
+       y2="-168.02582" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient188429"
+       id="linearGradient200243"
+       gradientUnits="userSpaceOnUse"
+       x1="-2.8588514"
+       y1="-168.65808"
+       x2="-236.35843"
+       y2="-168.02582" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient188429"
+       id="linearGradient200245"
+       gradientUnits="userSpaceOnUse"
+       x1="-2.8588514"
+       y1="-168.65808"
+       x2="-236.35843"
+       y2="-168.02582" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient219129"
+       id="linearGradient219131"
+       x1="-69.273872"
+       y1="-428.88431"
+       x2="62.387196"
+       y2="-425.56473"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient219129"
+       id="linearGradient237659"
+       gradientUnits="userSpaceOnUse"
+       x1="-69.273872"
+       y1="-428.88431"
+       x2="62.387196"
+       y2="-425.56473" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient219129"
+       id="linearGradient237661"
+       gradientUnits="userSpaceOnUse"
+       x1="-69.273872"
+       y1="-428.88431"
+       x2="62.387196"
+       y2="-425.56473" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient219129"
+       id="linearGradient237663"
+       gradientUnits="userSpaceOnUse"
+       x1="-69.273872"
+       y1="-428.88431"
+       x2="62.387196"
+       y2="-425.56473" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient219129"
+       id="linearGradient237665"
+       gradientUnits="userSpaceOnUse"
+       x1="-69.273872"
+       y1="-428.88431"
+       x2="62.387196"
+       y2="-425.56473" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient219129"
+       id="linearGradient237667"
+       gradientUnits="userSpaceOnUse"
+       x1="-69.273872"
+       y1="-428.88431"
+       x2="62.387196"
+       y2="-425.56473" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient219129"
+       id="linearGradient237669"
+       gradientUnits="userSpaceOnUse"
+       x1="-69.273872"
+       y1="-428.88431"
+       x2="62.387196"
+       y2="-425.56473" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.1400581"
+     inkscape:cx="-109.64354"
+     inkscape:cy="67.978994"
+     inkscape:window-width="1920"
+     inkscape:window-height="1019"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8"
+     showborder="true"
+     inkscape:showpageshadow="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid87" />
+  </sodipodi:namedview>
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8"
+     transform="translate(-56.200085,-40.736889)">
+    <g
+       id="g21905"
+       transform="matrix(1,0,0,0.66666667,277.70465,-239.21319)">
+      <path
+         style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 91.200085,15.736889 h 30.000005 l -15,70 z"
+         id="path21893" />
+      <path
+         style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 126.20009,15.736889 h 24.99999 l -39.99999,65 z"
+         id="path21895" />
+      <path
+         style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 86.200085,15.736889 h -25 l 40.000005,65 z"
+         id="path21897" />
+      <path
+         style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 91.200085,10.736889 h 30.000005 l -5,-15 H 96.200085 Z"
+         id="path21899" />
+      <path
+         style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 126.20009,10.736889 h 24.99999 l -10,-15 h -19.99999 z"
+         id="path21901" />
+      <path
+         style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 61.200085,10.736889 h 25 l 5,-15 h -20 z"
+         id="path21903" />
+    </g>
+    <g
+       id="g22042"
+       transform="matrix(-0.84260414,0,0,-0.77165112,414.31432,-150.89686)">
+      <path
+         style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 91.200085,15.736889 h 30.000005 l -15,70 z"
+         id="path22030" />
+      <path
+         style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 126.20009,15.736889 h 24.99999 l -39.99999,65 z"
+         id="path22032" />
+      <path
+         style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 86.200085,15.736889 h -25 l 40.000005,65 z"
+         id="path22034" />
+      <path
+         style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 91.200085,10.736889 h 30.000005 l -5,-15 H 96.200085 Z"
+         id="path22036" />
+      <path
+         style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 126.20009,10.736889 h 24.99999 l -10,-15 h -19.99999 z"
+         id="path22038" />
+      <path
+         style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 61.200085,10.736889 h 25 l 5,-15 h -20 z"
+         id="path22040" />
+    </g>
+    <g
+       id="g26702"
+       transform="translate(474.86192,-99.466636)">
+      <g
+         id="g22285"
+         transform="translate(-77.731322,64.8987)">
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-19.263111 h 30.000005 l -15,70 z"
+           id="path1295" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-19.263111 h 24.99999 l -39.99999,65 z"
+           id="path1297" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -78.79992,-19.263111 h -25 l 40.000005,65 z"
+           id="path1299" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-24.263111 h 30.000005 l -5,-15 H -68.79992 Z"
+           id="path1301" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-24.263111 h 24.99999 l -10,-15 h -19.99999 z"
+           id="path1303" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -103.79992,-24.263111 h 25 l 5,-15 h -20 z"
+           id="path1305" />
+      </g>
+      <g
+         id="g22299"
+         transform="translate(-77.731318,64.898696)"
+         style="opacity:1;fill:url(#linearGradient24688);fill-opacity:1">
+        <path
+           style="fill:url(#linearGradient26676);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-19.263111 h 30.000005 l -15,70 z"
+           id="path22287" />
+        <path
+           style="fill:url(#linearGradient26678);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-19.263111 h 24.99999 l -39.99999,65 z"
+           id="path22289" />
+        <path
+           style="fill:url(#linearGradient26680);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -78.79992,-19.263111 h -25 l 40.000005,65 z"
+           id="path22291" />
+        <path
+           style="fill:url(#linearGradient26682);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-24.263111 h 30.000005 l -5,-15 H -68.79992 Z"
+           id="path22293" />
+        <path
+           style="fill:url(#linearGradient26684);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-24.263111 h 24.99999 l -10,-15 h -19.99999 z"
+           id="path22295" />
+        <path
+           style="fill:url(#linearGradient26686);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -103.79992,-24.263111 h 25 l 5,-15 h -20 z"
+           id="path22297" />
+      </g>
+    </g>
+    <g
+       id="g26982"
+       transform="translate(399.03114,-441.05803)">
+      <g
+         id="g26844"
+         transform="matrix(0.83573011,0,0,0.56844139,133.35017,20.858064)">
+        <g
+           id="g26828"
+           transform="translate(12.859518,110.79185)">
+          <path
+             style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -73.79992,-19.263111 h 30.000005 l -15,70 z"
+             id="path26816" />
+          <path
+             style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -38.799915,-19.263111 h 24.99999 l -39.99999,65 z"
+             id="path26818" />
+          <path
+             style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -78.79992,-19.263111 h -25 l 40.000005,65 z"
+             id="path26820" />
+          <path
+             style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -73.79992,-24.263111 h 30.000005 l -5,-15 H -68.79992 Z"
+             id="path26822" />
+          <path
+             style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -38.799915,-24.263111 h 24.99999 l -10,-15 h -19.99999 z"
+             id="path26824" />
+          <path
+             style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -103.79992,-24.263111 h 25 l 5,-15 h -20 z"
+             id="path26826" />
+        </g>
+        <g
+           id="g26842"
+           transform="translate(12.859522,110.79184)"
+           style="fill:url(#linearGradient26858);fill-opacity:1">
+          <path
+             style="fill:url(#linearGradient26846);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -73.79992,-19.263111 h 30.000005 l -15,70 z"
+             id="path26830" />
+          <path
+             style="fill:url(#linearGradient26848);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -38.799915,-19.263111 h 24.99999 l -39.99999,65 z"
+             id="path26832" />
+          <path
+             style="fill:url(#linearGradient26850);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -78.79992,-19.263111 h -25 l 40.000005,65 z"
+             id="path26834" />
+          <path
+             style="fill:url(#linearGradient26852);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -73.79992,-24.263111 h 30.000005 l -5,-15 H -68.79992 Z"
+             id="path26836" />
+          <path
+             style="fill:url(#linearGradient26854);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -38.799915,-24.263111 h 24.99999 l -10,-15 h -19.99999 z"
+             id="path26838" />
+          <path
+             style="fill:url(#linearGradient26856);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -103.79992,-24.263111 h 25 l 5,-15 h -20 z"
+             id="path26840" />
+        </g>
+      </g>
+      <g
+         id="g26900"
+         transform="matrix(0.93847343,0,0,1,6.5692807,0.02604513)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:14.2421px;line-height:1.25;font-family:sans-serif;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.356054"
+           x="52.972973"
+           y="58.695309"
+           id="text26876"
+           transform="scale(1.1509995,0.86881011)"><tspan
+             sodipodi:role="line"
+             id="tspan26874"
+             x="52.972973"
+             y="58.695309"
+             style="fill:#008080;stroke-width:0.356054">GRAVEL</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:10.9932px;line-height:1.25;font-family:sans-serif;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.274831"
+           x="50.220959"
+           y="73.106781"
+           id="text26880"
+           transform="scale(1.2232731,0.81747892)"><tspan
+             sodipodi:role="line"
+             id="tspan26878"
+             x="50.220959"
+             y="73.106781"
+             style="fill:#008080;stroke-width:0.274831">PLUS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:9.49493px;line-height:1.25;font-family:sans-serif;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.237376"
+           x="83.977089"
+           y="66.790779"
+           id="text26884"
+           transform="scale(1.1148369,0.8969922)"><tspan
+             sodipodi:role="line"
+             id="tspan26882"
+             x="83.977089"
+             y="66.790779"
+             style="fill:#008080;stroke-width:0.237376">.co.uk</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g27290"
+       transform="translate(-342.47069,-370.22751)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.6979px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.342448"
+         x="54.718941"
+         y="113.11205"
+         id="text26948"
+         transform="scale(1.107015,0.90333011)"><tspan
+           sodipodi:role="line"
+           id="tspan26946"
+           x="54.718941"
+           y="113.11205"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.6979px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.342448">GRAVEL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5731px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.264329"
+         x="52.657269"
+         y="130.53059"
+         id="text26952"
+         transform="scale(1.1765268,0.84995939)"><tspan
+           sodipodi:role="line"
+           id="tspan26950"
+           x="52.657269"
+           y="130.53059"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5731px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.264329">PLUS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.13209px;line-height:1.25;font-family:sans-serif;fill:#803300;fill-opacity:1;stroke:none;stroke-width:0.228305"
+         x="90.002678"
+         y="119.118"
+         id="text26956"
+         transform="scale(1.0722343,0.93263198)"><tspan
+           sodipodi:role="line"
+           id="tspan26954"
+           x="90.002678"
+           y="119.118"
+           style="fill:#803300;stroke-width:0.228305">.co.uk</tspan></text>
+    </g>
+    <g
+       id="g26802"
+       transform="matrix(-0.81939154,0,0,-0.81939154,-284.05733,176.00428)">
+      <g
+         id="g26716"
+         transform="translate(12.859518,110.79185)">
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-19.263111 h 30.000005 l -15,70 z"
+           id="path26704" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-19.263111 h 24.99999 l -39.99999,65 z"
+           id="path26706" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -78.79992,-19.263111 h -25 l 40.000005,65 z"
+           id="path26708" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-24.263111 h 30.000005 l -5,-15 H -68.79992 Z"
+           id="path26710" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-24.263111 h 24.99999 l -10,-15 h -19.99999 z"
+           id="path26712" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -103.79992,-24.263111 h 25 l 5,-15 h -20 z"
+           id="path26714" />
+      </g>
+      <g
+         id="g26730"
+         transform="translate(12.859522,110.79184)"
+         style="fill:url(#linearGradient26786);fill-opacity:1">
+        <path
+           style="fill:url(#linearGradient26804);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-19.263111 h 30.000005 l -15,70 z"
+           id="path26718" />
+        <path
+           style="fill:url(#linearGradient26806);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-19.263111 h 24.99999 l -39.99999,65 z"
+           id="path26720" />
+        <path
+           style="fill:url(#linearGradient26808);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -78.79992,-19.263111 h -25 l 40.000005,65 z"
+           id="path26722" />
+        <path
+           style="fill:url(#linearGradient26810);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-24.263111 h 30.000005 l -5,-15 H -68.79992 Z"
+           id="path26724" />
+        <path
+           style="fill:url(#linearGradient26812);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-24.263111 h 24.99999 l -10,-15 h -19.99999 z"
+           id="path26726" />
+        <path
+           style="fill:url(#linearGradient26814);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -103.79992,-24.263111 h 25 l 5,-15 h -20 z"
+           id="path26728" />
+      </g>
+    </g>
+    <g
+       id="g27304"
+       transform="translate(-369.60374,0.75322807)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.6979px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.342448"
+         x="54.718941"
+         y="113.11205"
+         id="text27294"
+         transform="scale(1.107015,0.90333011)"><tspan
+           sodipodi:role="line"
+           id="tspan27292"
+           x="54.718941"
+           y="113.11205"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.6979px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.342448">GRAVEL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5731px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.264329"
+         x="52.657269"
+         y="130.53059"
+         id="text27298"
+         transform="scale(1.1765268,0.84995939)"><tspan
+           sodipodi:role="line"
+           id="tspan27296"
+           x="52.657269"
+           y="130.53059"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5731px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.264329">PLUS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.13209px;line-height:1.25;font-family:sans-serif;fill:#803300;fill-opacity:1;stroke:none;stroke-width:0.228305"
+         x="90.002678"
+         y="119.118"
+         id="text27302"
+         transform="scale(1.0722343,0.93263198)"><tspan
+           sodipodi:role="line"
+           id="tspan27300"
+           x="90.002678"
+           y="119.118"
+           style="fill:#803300;stroke-width:0.228305">.co.uk</tspan></text>
+    </g>
+    <g
+       id="g27364"
+       transform="matrix(-0.64134362,0,0,-0.64134362,-431.78647,-351.25041)">
+      <g
+         id="g27348"
+         transform="translate(12.859518,110.79185)">
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-19.263111 h 30.000005 l -15,70 z"
+           id="path27336" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-19.263111 h 24.99999 l -39.99999,65 z"
+           id="path27338" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -78.79992,-19.263111 h -25 l 40.000005,65 z"
+           id="path27340" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-24.263111 h 30.000005 l -5,-15 H -68.79992 Z"
+           id="path27342" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-24.263111 h 24.99999 l -10,-15 h -19.99999 z"
+           id="path27344" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -103.79992,-24.263111 h 25 l 5,-15 h -20 z"
+           id="path27346" />
+      </g>
+      <g
+         id="g27362"
+         transform="translate(12.859522,110.79184)"
+         style="fill:url(#linearGradient27378);fill-opacity:1">
+        <path
+           style="fill:url(#linearGradient27366);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-19.263111 h 30.000005 l -15,70 z"
+           id="path27350" />
+        <path
+           style="fill:url(#linearGradient27368);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-19.263111 h 24.99999 l -39.99999,65 z"
+           id="path27352" />
+        <path
+           style="fill:url(#linearGradient27370);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -78.79992,-19.263111 h -25 l 40.000005,65 z"
+           id="path27354" />
+        <path
+           style="fill:url(#linearGradient27372);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-24.263111 h 30.000005 l -5,-15 H -68.79992 Z"
+           id="path27356" />
+        <path
+           style="fill:url(#linearGradient27374);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-24.263111 h 24.99999 l -10,-15 h -19.99999 z"
+           id="path27358" />
+        <path
+           style="fill:url(#linearGradient27376);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -103.79992,-24.263111 h 25 l 5,-15 h -20 z"
+           id="path27360" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7429px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.418573"
+       x="-270.34879"
+       y="-198.21547"
+       id="text27396"
+       transform="scale(0.90568439,1.1041374)"><tspan
+         sodipodi:role="line"
+         id="tspan27394"
+         x="-270.34879"
+         y="-198.21547"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7429px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.418573">GRAVEL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5731px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.264329"
+       x="-207.73909"
+       y="-243.19926"
+       id="text27400"
+       transform="scale(1.1765268,0.84995939)"><tspan
+         sodipodi:role="line"
+         id="tspan27398"
+         x="-207.73909"
+         y="-243.19926"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5731px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.264329">PLUS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.13209px;line-height:1.25;font-family:sans-serif;fill:#803300;fill-opacity:1;stroke:none;stroke-width:0.228305"
+       x="-271.24896"
+       y="-247.39719"
+       id="text27404"
+       transform="scale(1.0722343,0.93263198)"><tspan
+         sodipodi:role="line"
+         id="tspan27402"
+         x="-271.24896"
+         y="-247.39719"
+         style="fill:#803300;stroke-width:0.228305">.co.uk</tspan></text>
+    <g
+       id="g27444"
+       transform="translate(-476.26333,-366.44795)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.6979px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.342448"
+         x="54.718941"
+         y="113.11205"
+         id="text27434"
+         transform="scale(1.107015,0.90333011)"><tspan
+           sodipodi:role="line"
+           id="tspan27432"
+           x="54.718941"
+           y="113.11205"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.6979px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.342448">GRAVEL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5731px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.264329"
+         x="52.657269"
+         y="130.53059"
+         id="text27438"
+         transform="scale(1.1765268,0.84995939)"><tspan
+           sodipodi:role="line"
+           id="tspan27436"
+           x="52.657269"
+           y="130.53059"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5731px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.264329">PLUS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:9.13209px;line-height:1.25;font-family:sans-serif;fill:#803300;fill-opacity:1;stroke:none;stroke-width:0.228305"
+         x="90.002678"
+         y="119.118"
+         id="text27442"
+         transform="scale(1.0722343,0.93263198)"><tspan
+           sodipodi:role="line"
+           id="tspan27440"
+           x="90.002678"
+           y="119.118"
+           style="fill:#803300;stroke-width:0.228305">.co.uk</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7429px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.418573"
+       x="-357.87265"
+       y="-290.91599"
+       id="text27623"
+       transform="scale(0.90568439,1.1041374)"><tspan
+         sodipodi:role="line"
+         id="tspan27621"
+         x="-357.87265"
+         y="-290.91599"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.7429px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.418573">GRAVEL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5731px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.264329"
+       x="-234.34633"
+       y="-397.51617"
+       id="text27627"
+       transform="scale(1.1765268,0.84995939)"><tspan
+         sodipodi:role="line"
+         id="tspan27625"
+         x="-234.34633"
+         y="-397.51617"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5731px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.264329">PLUS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.13209px;line-height:1.25;font-family:sans-serif;fill:#803300;fill-opacity:1;stroke:none;stroke-width:0.228305"
+       x="-271.66016"
+       y="-388.15256"
+       id="text27631"
+       transform="scale(1.0722343,0.93263198)"><tspan
+         sodipodi:role="line"
+         id="tspan27629"
+         x="-271.66016"
+         y="-388.15256"
+         style="fill:#803300;stroke-width:0.228305">.co.uk</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;fill-opacity:1;stroke:none;stroke-width:0.814599"
+       x="-65.156799"
+       y="-610.86359"
+       id="text28246"
+       transform="scale(1.1765268,0.84995939)"><tspan
+         sodipodi:role="line"
+         id="tspan28244"
+         x="-65.156799"
+         y="-610.86359"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;stroke-width:0.814599">PLUS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;fill-opacity:1;stroke:none;stroke-width:0.814599"
+       x="-180.47957"
+       y="-594.81396"
+       id="text28410"
+       transform="scale(1.1765268,0.84995939)"><tspan
+         sodipodi:role="line"
+         id="tspan28408"
+         x="-180.47957"
+         y="-594.81396"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;stroke-width:0.814599">PLUS</tspan></text>
+    <g
+       id="g42020"
+       transform="translate(-403.15608,-93.752399)"
+       style="fill:#008080">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.645461"
+         x="84.296829"
+         y="-457.68082"
+         id="text42008"
+         transform="scale(1.0515506,0.95097658)"><tspan
+           sodipodi:role="line"
+           id="tspan42006"
+           x="84.296829"
+           y="-457.68082"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.645461">.co.uk</tspan></text>
+      <g
+         id="g42018"
+         transform="matrix(0.96965051,0,0,1,281.96825,-2.6150371)"
+         style="fill:#008080">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text42012"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan42010"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.814599">PLUS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text42016"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan42014"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g42056"
+       transform="translate(-515.9413,141.20751)"
+       style="fill:url(#linearGradient95576);fill-opacity:1">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96008);fill-opacity:1;stroke:none;stroke-width:0.645461"
+         x="84.296829"
+         y="-457.68082"
+         id="text42044"
+         transform="scale(1.0515506,0.95097658)"><tspan
+           sodipodi:role="line"
+           id="tspan42042"
+           x="84.296829"
+           y="-457.68082"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96008);fill-opacity:1;stroke-width:0.645461">.co.uk</tspan></text>
+      <g
+         id="g42054"
+         transform="matrix(0.96965051,0,0,1,281.96825,-2.6150371)"
+         style="fill:url(#linearGradient96014);fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96010);fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text42048"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan42046"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96010);fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96012);fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text42052"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan42050"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96012);fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g96070"
+       transform="matrix(0.47597939,0,0,0.47597939,-438.98628,-161.60362)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30.0427px;line-height:1.25;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.751066"
+         x="-3.6244824"
+         y="-589.83588"
+         id="text96054"
+         transform="scale(1.2799536,0.78127831)"><tspan
+           sodipodi:role="line"
+           id="tspan96052"
+           x="-3.6244824"
+           y="-589.83588"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30.0427px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.751066">GRAVEL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.645461"
+         x="84.296829"
+         y="-457.68082"
+         id="text96058"
+         transform="scale(1.0515506,0.95097658)"><tspan
+           sodipodi:role="line"
+           id="tspan96056"
+           x="84.296829"
+           y="-457.68082"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.645461">.co.uk</tspan></text>
+      <g
+         id="g96068"
+         transform="matrix(0.96965051,0,0,1,281.96825,-2.6150371)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text96062"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan96060"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;stroke-width:0.814599">PLUS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96072);fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text96066"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan96064"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96072);fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g96114"
+       transform="translate(-475.0352,239.48861)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30.0427px;line-height:1.25;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.751066"
+         x="-3.6244824"
+         y="-589.83588"
+         id="text96098"
+         transform="scale(1.2799536,0.78127831)"><tspan
+           sodipodi:role="line"
+           id="tspan96096"
+           x="-3.6244824"
+           y="-589.83588"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30.0427px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.751066">GRAVEL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.645461"
+         x="84.296829"
+         y="-457.68082"
+         id="text96102"
+         transform="scale(1.0515506,0.95097658)"><tspan
+           sodipodi:role="line"
+           id="tspan96100"
+           x="84.296829"
+           y="-457.68082"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.645461">.co.uk</tspan></text>
+      <g
+         id="g96112"
+         transform="matrix(0.96965051,0,0,1,281.96825,-2.6150371)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text96106"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan96104"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;stroke-width:0.814599">PLUS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96138);fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text96110"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan96108"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96138);fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g96134"
+       transform="matrix(0.38304403,0,0,0.38530794,-155.57881,-159.75701)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30.0427px;line-height:1.25;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.751066"
+         x="-3.6244824"
+         y="-589.83588"
+         id="text96118"
+         transform="scale(1.2799536,0.78127831)"><tspan
+           sodipodi:role="line"
+           id="tspan96116"
+           x="-3.6244824"
+           y="-589.83588"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30.0427px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.751066">GRAVEL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.645461"
+         x="84.296829"
+         y="-457.68082"
+         id="text96122"
+         transform="scale(1.0515506,0.95097658)"><tspan
+           sodipodi:role="line"
+           id="tspan96120"
+           x="84.296829"
+           y="-457.68082"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.645461">.co.uk</tspan></text>
+      <g
+         id="g96132"
+         transform="matrix(0.96965051,0,0,1,281.96825,-2.6150371)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text96126"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan96124"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;stroke-width:0.814599">PLUS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96136);fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text96130"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan96128"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96136);fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g96221"
+       transform="translate(-289.01232,6.7727185)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:38.4054px;line-height:1.25;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.960132"
+         x="-235.8726"
+         y="-153.14999"
+         id="text96205"
+         transform="scale(1.0012471,0.99875444)"><tspan
+           sodipodi:role="line"
+           id="tspan96203"
+           x="-235.8726"
+           y="-153.14999"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:38.4054px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.960132">GRAVEL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7912px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.494787"
+         x="-55.717548"
+         y="-182.38243"
+         id="text96209"
+         transform="scale(1.1942242,0.8373637)"><tspan
+           sodipodi:role="line"
+           id="tspan96207"
+           x="-55.717548"
+           y="-182.38243"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7912px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.494787">.co.uk</tspan></text>
+      <g
+         id="g96219"
+         transform="matrix(0.70007261,0,0,0.6932988,140.12904,132.74766)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text96213"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan96211"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;stroke-width:0.814599">PLUS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96223);fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text96217"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan96215"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96223);fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g96419"
+       transform="translate(27.619725,-30.5463)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30.0427px;line-height:1.25;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.751066"
+         x="-3.6244824"
+         y="-589.83588"
+         id="text96403"
+         transform="scale(1.2799536,0.78127831)"><tspan
+           sodipodi:role="line"
+           id="tspan96401"
+           x="-3.6244824"
+           y="-589.83588"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30.0427px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.751066">GRAVEL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.645461"
+         x="84.296829"
+         y="-457.68082"
+         id="text96407"
+         transform="scale(1.0515506,0.95097658)"><tspan
+           sodipodi:role="line"
+           id="tspan96405"
+           x="84.296829"
+           y="-457.68082"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.645461">.co.uk</tspan></text>
+      <g
+         id="g96417"
+         transform="matrix(0.96965051,0,0,1,281.96825,-2.6150371)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text96411"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan96409"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;stroke-width:0.814599">PLUS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96421);fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text96415"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan96413"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96421);fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g26930"
+       transform="matrix(-0.83573011,0,0,-0.56844139,-62.122222,3.22292)">
+      <g
+         id="g26914"
+         transform="translate(12.859518,110.79185)">
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-19.263111 h 30.000005 l -15,70 z"
+           id="path26902" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-19.263111 h 24.99999 l -39.99999,65 z"
+           id="path26904" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -78.79992,-19.263111 h -25 l 40.000005,65 z"
+           id="path26906" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-24.263111 h 30.000005 l -5,-15 H -68.79992 Z"
+           id="path26908" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-24.263111 h 24.99999 l -10,-15 h -19.99999 z"
+           id="path26910" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -103.79992,-24.263111 h 25 l 5,-15 h -20 z"
+           id="path26912" />
+      </g>
+      <g
+         id="g26928"
+         transform="translate(12.859522,110.79184)"
+         style="fill:url(#linearGradient26944);fill-opacity:1">
+        <path
+           style="fill:url(#linearGradient26932);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-19.263111 h 30.000005 l -15,70 z"
+           id="path26916" />
+        <path
+           style="fill:url(#linearGradient26934);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-19.263111 h 24.99999 l -39.99999,65 z"
+           id="path26918" />
+        <path
+           style="fill:url(#linearGradient26936);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -78.79992,-19.263111 h -25 l 40.000005,65 z"
+           id="path26920" />
+        <path
+           style="fill:url(#linearGradient26938);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-24.263111 h 30.000005 l -5,-15 H -68.79992 Z"
+           id="path26922" />
+        <path
+           style="fill:url(#linearGradient26940);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-24.263111 h 24.99999 l -10,-15 h -19.99999 z"
+           id="path26924" />
+        <path
+           style="fill:url(#linearGradient26942);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -103.79992,-24.263111 h 25 l 5,-15 h -20 z"
+           id="path26926" />
+      </g>
+    </g>
+    <g
+       id="g118492"
+       transform="matrix(0.35131448,0,0,0.35131448,-14.236526,122.77851)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30.0427px;line-height:1.25;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.751066"
+         x="-83.686226"
+         y="-550.80377"
+         id="text28242"
+         transform="scale(1.2799536,0.78127832)"><tspan
+           sodipodi:role="line"
+           id="tspan28240"
+           x="-83.686226"
+           y="-550.80377"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30.0427px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.751066">GRAVEL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.645461"
+         x="-13.1548"
+         y="-425.61386"
+         id="text28250"
+         transform="scale(1.0515506,0.95097658)"><tspan
+           sodipodi:role="line"
+           id="tspan28248"
+           x="-13.1548"
+           y="-425.61386"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.645461">.co.uk</tspan></text>
+      <g
+         id="g28812"
+         transform="matrix(0.96965051,0,0,1,179.49293,27.879892)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text28406"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan28404"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;stroke-width:0.814599">PLUS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient28440);fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text28414"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan28412"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient28440);fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient109663);fill-opacity:1;stroke:none;stroke-width:0.645461"
+         x="-13.1548"
+         y="-425.61386"
+         id="text96434"
+         transform="scale(1.0515506,0.95097658)"><tspan
+           sodipodi:role="line"
+           id="tspan96432"
+           x="-13.1548"
+           y="-425.61386"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient109663);fill-opacity:1;stroke-width:0.645461">.co.uk</tspan></text>
+    </g>
+    <g
+       id="g138229"
+       transform="translate(180.99696,400.32682)">
+      <g
+         id="g27619"
+         transform="matrix(-0.34005083,0,0,-0.21209456,-66.355879,-218.05657)">
+        <g
+           id="g27603"
+           transform="translate(12.859518,110.79185)">
+          <path
+             style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -73.79992,-19.263111 h 30.000005 l -15,70 z"
+             id="path27591" />
+          <path
+             style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -38.799915,-19.263111 h 24.99999 l -39.99999,65 z"
+             id="path27593" />
+          <path
+             style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -78.79992,-19.263111 h -25 l 40.000005,65 z"
+             id="path27595" />
+          <path
+             style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -73.79992,-24.263111 h 30.000005 l -5,-15 H -68.79992 Z"
+             id="path27597" />
+          <path
+             style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -38.799915,-24.263111 h 24.99999 l -10,-15 h -19.99999 z"
+             id="path27599" />
+          <path
+             style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -103.79992,-24.263111 h 25 l 5,-15 h -20 z"
+             id="path27601" />
+        </g>
+        <g
+           id="g27617"
+           transform="translate(12.859522,110.79184)"
+           style="fill:url(#linearGradient27647);fill-opacity:1">
+          <path
+             style="fill:url(#linearGradient27635);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -73.79992,-19.263111 h 30.000005 l -15,70 z"
+             id="path27605" />
+          <path
+             style="fill:url(#linearGradient27637);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -38.799915,-19.263111 h 24.99999 l -39.99999,65 z"
+             id="path27607" />
+          <path
+             style="fill:url(#linearGradient27639);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -78.79992,-19.263111 h -25 l 40.000005,65 z"
+             id="path27609" />
+          <path
+             style="fill:url(#linearGradient27641);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -73.79992,-24.263111 h 30.000005 l -5,-15 H -68.79992 Z"
+             id="path27611" />
+          <path
+             style="fill:url(#linearGradient27643);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -38.799915,-24.263111 h 24.99999 l -10,-15 h -19.99999 z"
+             id="path27613" />
+          <path
+             style="fill:url(#linearGradient27645);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             d="m -103.79992,-24.263111 h 25 l 5,-15 h -20 z"
+             id="path27615" />
+        </g>
+      </g>
+      <g
+         id="g138118">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.8978px;line-height:1.25;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.647442"
+           x="-33.994301"
+           y="-233.05707"
+           id="text96227"
+           transform="scale(1.0012471,0.99875445)"><tspan
+             sodipodi:role="line"
+             id="tspan96225"
+             x="-33.994301"
+             y="-233.05707"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.8978px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.647442">GRAVEL</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3457px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.333648"
+           x="67.280106"
+           y="-277.78342"
+           id="text96231"
+           transform="scale(1.1942242,0.8373637)"><tspan
+             sodipodi:role="line"
+             id="tspan96229"
+             x="67.280106"
+             y="-277.78342"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3457px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.333648">.co.uk</tspan></text>
+        <g
+           id="g96241"
+           transform="matrix(0.4720771,0,0,0.46750934,219.70931,-40.107223)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;fill-opacity:1;stroke:none;stroke-width:0.814599"
+             x="-250.05782"
+             y="-509.22696"
+             id="text96235"
+             transform="scale(1.1765268,0.84995939)"><tspan
+               sodipodi:role="line"
+               id="tspan96233"
+               x="-250.05782"
+               y="-509.22696"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;stroke-width:0.814599">PLUS</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96245);fill-opacity:1;stroke:none;stroke-width:0.814599"
+             x="-250.05782"
+             y="-509.22696"
+             id="text96239"
+             transform="scale(1.1765268,0.84995939)"><tspan
+               sodipodi:role="line"
+               id="tspan96237"
+               x="-250.05782"
+               y="-509.22696"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient96245);fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3457px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient137931);fill-opacity:1;stroke:none;stroke-width:0.333648"
+           x="67.280106"
+           y="-277.78342"
+           id="text118530"
+           transform="scale(1.1942242,0.8373637)"><tspan
+             sodipodi:role="line"
+             id="tspan118528"
+             x="67.280106"
+             y="-277.78342"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3457px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient137931);fill-opacity:1;stroke-width:0.333648">.co.uk</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g27334"
+       transform="matrix(-0.89086006,0,0,-0.57244433,-115.61563,115.87005)">
+      <g
+         id="g27318"
+         transform="translate(12.859518,110.79185)">
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-19.263111 h 30.000005 l -15,70 z"
+           id="path27306" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-19.263111 h 24.99999 l -39.99999,65 z"
+           id="path27308" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -78.79992,-19.263111 h -25 l 40.000005,65 z"
+           id="path27310" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-24.263111 h 30.000005 l -5,-15 H -68.79992 Z"
+           id="path27312" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-24.263111 h 24.99999 l -10,-15 h -19.99999 z"
+           id="path27314" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -103.79992,-24.263111 h 25 l 5,-15 h -20 z"
+           id="path27316" />
+      </g>
+      <g
+         id="g27332"
+         transform="translate(12.859522,110.79184)"
+         style="fill:url(#linearGradient27392);fill-opacity:1">
+        <path
+           style="fill:url(#linearGradient27380);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-19.263111 h 30.000005 l -15,70 z"
+           id="path27320" />
+        <path
+           style="fill:url(#linearGradient27382);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-19.263111 h 24.99999 l -39.99999,65 z"
+           id="path27322" />
+        <path
+           style="fill:url(#linearGradient27384);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -78.79992,-19.263111 h -25 l 40.000005,65 z"
+           id="path27324" />
+        <path
+           style="fill:url(#linearGradient27386);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-24.263111 h 30.000005 l -5,-15 H -68.79992 Z"
+           id="path27326" />
+        <path
+           style="fill:url(#linearGradient27388);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-24.263111 h 24.99999 l -10,-15 h -19.99999 z"
+           id="path27328" />
+        <path
+           style="fill:url(#linearGradient27390);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -103.79992,-24.263111 h 25 l 5,-15 h -20 z"
+           id="path27330" />
+      </g>
+    </g>
+    <g
+       id="g138142"
+       transform="translate(-118.40141,428.48025)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.8978px;line-height:1.25;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.647442"
+         x="-33.994301"
+         y="-233.05707"
+         id="text138122"
+         transform="scale(1.0012471,0.99875445)"><tspan
+           sodipodi:role="line"
+           id="tspan138120"
+           x="-33.994301"
+           y="-233.05707"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:25.8978px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.647442">GRAVEL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3457px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.333648"
+         x="67.280106"
+         y="-277.78342"
+         id="text138126"
+         transform="scale(1.1942242,0.8373637)"><tspan
+           sodipodi:role="line"
+           id="tspan138124"
+           x="67.280106"
+           y="-277.78342"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3457px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.333648">.co.uk</tspan></text>
+      <g
+         id="g138136"
+         transform="matrix(0.4720771,0,0,0.46750934,219.70931,-40.107223)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text138130"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan138128"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;stroke-width:0.814599">PLUS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient138144);fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text138134"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan138132"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient138144);fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3457px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient138146);fill-opacity:1;stroke:none;stroke-width:0.333648"
+         x="67.280106"
+         y="-277.78342"
+         id="text138140"
+         transform="scale(1.1942242,0.8373637)"><tspan
+           sodipodi:role="line"
+           id="tspan138138"
+           x="67.280106"
+           y="-277.78342"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3457px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient138146);fill-opacity:1;stroke-width:0.333648">.co.uk</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0"
+       id="rect160851"
+       width="79.491913"
+       height="25.17165"
+       x="-0.05111663"
+       y="-280.56662" />
+    <g
+       id="g162287"
+       transform="matrix(-0.83573011,0,0,-0.57485295,55.318242,133.92874)">
+      <g
+         id="g162271"
+         transform="translate(12.859518,110.79185)">
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-19.263111 h 30.000005 l -15,70 z"
+           id="path162259" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-19.263111 h 24.99999 l -39.99999,65 z"
+           id="path162261" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -78.79992,-19.263111 h -25 l 40.000005,65 z"
+           id="path162263" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-24.263111 h 30.000005 l -5,-15 H -68.79992 Z"
+           id="path162265" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-24.263111 h 24.99999 l -10,-15 h -19.99999 z"
+           id="path162267" />
+        <path
+           style="fill:#008080;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -103.79992,-24.263111 h 25 l 5,-15 h -20 z"
+           id="path162269" />
+      </g>
+      <g
+         id="g162285"
+         transform="translate(12.859522,110.79184)"
+         style="fill:url(#linearGradient162327);fill-opacity:1">
+        <path
+           style="fill:url(#linearGradient162315);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-19.263111 h 30.000005 l -15,70 z"
+           id="path162273" />
+        <path
+           style="fill:url(#linearGradient162317);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-19.263111 h 24.99999 l -39.99999,65 z"
+           id="path162275" />
+        <path
+           style="fill:url(#linearGradient162319);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -78.79992,-19.263111 h -25 l 40.000005,65 z"
+           id="path162277" />
+        <path
+           style="fill:url(#linearGradient162321);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -73.79992,-24.263111 h 30.000005 l -5,-15 H -68.79992 Z"
+           id="path162279" />
+        <path
+           style="fill:url(#linearGradient162323);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -38.799915,-24.263111 h 24.99999 l -10,-15 h -19.99999 z"
+           id="path162281" />
+        <path
+           style="fill:url(#linearGradient162325);fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m -103.79992,-24.263111 h 25 l 5,-15 h -20 z"
+           id="path162283" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.6138px;line-height:1.25;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.265344"
+       x="-27.776949"
+       y="160.37535"
+       id="text162291"
+       transform="scale(1.2727957,0.78567206)"><tspan
+         sodipodi:role="line"
+         id="tspan162289"
+         x="-27.776949"
+         y="160.37535"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:10.6138px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.265344">GRAVEL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.12128px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.228035"
+       x="-2.4704027"
+       y="141.26083"
+       id="text162295"
+       transform="scale(1.04567,0.95632466)"><tspan
+         sodipodi:role="line"
+         id="tspan162293"
+         x="-2.4704027"
+         y="141.26083"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.12128px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.228035">.co.uk</tspan></text>
+    <g
+       id="g162305"
+       transform="matrix(0.34065226,0,0,0.35527703,65.334952,288.79426)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;fill-opacity:1;stroke:none;stroke-width:0.814599"
+         x="-250.05782"
+         y="-509.22696"
+         id="text162299"
+         transform="scale(1.1765268,0.84995939)"><tspan
+           sodipodi:role="line"
+           id="tspan162297"
+           x="-250.05782"
+           y="-509.22696"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#803300;stroke-width:0.814599">PLUS</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient162329);fill-opacity:1;stroke:none;stroke-width:0.814599"
+         x="-250.05782"
+         y="-509.22696"
+         id="text162303"
+         transform="scale(1.1765268,0.84995939)"><tspan
+           sodipodi:role="line"
+           id="tspan162301"
+           x="-250.05782"
+           y="-509.22696"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient162329);fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.12128px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient162331);fill-opacity:1;stroke:none;stroke-width:0.228035"
+       x="-2.4704027"
+       y="141.26083"
+       id="text162309"
+       transform="scale(1.04567,0.95632466)"><tspan
+         sodipodi:role="line"
+         id="tspan162307"
+         x="-2.4704027"
+         y="141.26083"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.12128px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient162331);fill-opacity:1;stroke-width:0.228035">.co.uk</tspan></text>
+    <g
+       id="g162858"
+       transform="matrix(0.6833713,0,0,0.6833713,-140.49521,72.20864)"
+       style="fill:#008080">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:38.4054px;line-height:1.25;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.960132"
+         x="-235.8726"
+         y="-153.14999"
+         id="text162842"
+         transform="scale(1.0012471,0.99875444)"><tspan
+           sodipodi:role="line"
+           id="tspan162840"
+           x="-235.8726"
+           y="-153.14999"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:38.4054px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.960132">GRAVEL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7912px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.494787"
+         x="-55.717548"
+         y="-182.38243"
+         id="text162846"
+         transform="scale(1.1942242,0.8373637)"><tspan
+           sodipodi:role="line"
+           id="tspan162844"
+           x="-55.717548"
+           y="-182.38243"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7912px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.494787">.co.uk</tspan></text>
+      <g
+         id="g162856"
+         transform="matrix(0.70007261,0,0,0.6932988,140.12904,132.74766)"
+         style="fill:#008080">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text162850"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan162848"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.814599">PLUS</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.814599"
+           x="-250.05782"
+           y="-509.22696"
+           id="text162854"
+           transform="scale(1.1765268,0.84995939)"><tspan
+             sodipodi:role="line"
+             id="tspan162852"
+             x="-250.05782"
+             y="-509.22696"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+      </g>
+    </g>
+    <g
+       id="g200235"
+       transform="translate(72.218204,-93.587211)">
+      <g
+         id="g96201"
+         transform="matrix(0.6833713,0,0,0.6833713,-64.759207,295.2736)"
+         style="fill:#008080">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:38.4054px;line-height:1.25;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.960132"
+           x="-235.8726"
+           y="-153.14999"
+           id="text96142"
+           transform="scale(1.0012471,0.99875444)"><tspan
+             sodipodi:role="line"
+             id="tspan96140"
+             x="-235.8726"
+             y="-153.14999"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:38.4054px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.960132">GRAVEL</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7912px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.494787"
+           x="-55.717548"
+           y="-182.38243"
+           id="text96146"
+           transform="scale(1.1942242,0.8373637)"><tspan
+             sodipodi:role="line"
+             id="tspan96144"
+             x="-55.717548"
+             y="-182.38243"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7912px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.494787">.co.uk</tspan></text>
+        <g
+           id="g96156"
+           transform="matrix(0.70007261,0,0,0.6932988,140.12904,132.74766)"
+           style="fill:#008080">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.814599"
+             x="-250.05782"
+             y="-509.22696"
+             id="text96150"
+             transform="scale(1.1765268,0.84995939)"><tspan
+               sodipodi:role="line"
+               id="tspan96148"
+               x="-250.05782"
+               y="-509.22696"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.814599">PLUS</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.814599"
+             x="-250.05782"
+             y="-509.22696"
+             id="text96154"
+             transform="scale(1.1765268,0.84995939)"><tspan
+               sodipodi:role="line"
+               id="tspan96152"
+               x="-250.05782"
+               y="-509.22696"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+        </g>
+      </g>
+      <g
+         id="g162878"
+         transform="matrix(0.6833713,0,0,0.6833713,-64.759207,295.2736)"
+         style="fill:url(#linearGradient188431);fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:38.4054px;line-height:1.25;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient200237);fill-opacity:1;stroke:none;stroke-width:0.960132"
+           x="-235.8726"
+           y="-153.14999"
+           id="text162862"
+           transform="scale(1.0012471,0.99875444)"><tspan
+             sodipodi:role="line"
+             id="tspan162860"
+             x="-235.8726"
+             y="-153.14999"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:38.4054px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient200237);fill-opacity:1;stroke-width:0.960132">GRAVEL</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7912px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient200239);fill-opacity:1;stroke:none;stroke-width:0.494787"
+           x="-55.717548"
+           y="-182.38243"
+           id="text162866"
+           transform="scale(1.1942242,0.8373637)"><tspan
+             sodipodi:role="line"
+             id="tspan162864"
+             x="-55.717548"
+             y="-182.38243"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7912px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient200239);fill-opacity:1;stroke-width:0.494787">.co.uk</tspan></text>
+        <g
+           id="g162876"
+           transform="matrix(0.70007261,0,0,0.6932988,140.12904,132.74766)"
+           style="fill:url(#linearGradient200245);fill-opacity:1">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient200241);fill-opacity:1;stroke:none;stroke-width:0.814599"
+             x="-250.05782"
+             y="-509.22696"
+             id="text162870"
+             transform="scale(1.1765268,0.84995939)"><tspan
+               sodipodi:role="line"
+               id="tspan162868"
+               x="-250.05782"
+               y="-509.22696"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient200241);fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient200243);fill-opacity:1;stroke:none;stroke-width:0.814599"
+             x="-250.05782"
+             y="-509.22696"
+             id="text162874"
+             transform="scale(1.1765268,0.84995939)"><tspan
+               sodipodi:role="line"
+               id="tspan162872"
+               x="-250.05782"
+               y="-509.22696"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient200243);fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g237657"
+       transform="translate(20.944941,-48.430744)">
+      <g
+         id="g200589"
+         transform="matrix(0.35131448,0,0,0.35131448,80.627673,300.55702)"
+         style="fill:#008080">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30.0427px;line-height:1.25;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.751066"
+           x="-83.686226"
+           y="-550.80377"
+           id="text200569"
+           transform="scale(1.2799536,0.78127832)"><tspan
+             sodipodi:role="line"
+             id="tspan200567"
+             x="-83.686226"
+             y="-550.80377"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30.0427px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.751066">GRAVEL</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.645461"
+           x="-13.1548"
+           y="-425.61386"
+           id="text200573"
+           transform="scale(1.0515506,0.95097658)"><tspan
+             sodipodi:role="line"
+             id="tspan200571"
+             x="-13.1548"
+             y="-425.61386"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.645461">.co.uk</tspan></text>
+        <g
+           id="g200583"
+           transform="matrix(0.96965051,0,0,1,179.49293,27.879892)"
+           style="fill:#008080">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.814599"
+             x="-250.05782"
+             y="-509.22696"
+             id="text200577"
+             transform="scale(1.1765268,0.84995939)"><tspan
+               sodipodi:role="line"
+               id="tspan200575"
+               x="-250.05782"
+               y="-509.22696"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;stroke-width:0.814599">PLUS</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.814599"
+             x="-250.05782"
+             y="-509.22696"
+             id="text200581"
+             transform="scale(1.1765268,0.84995939)"><tspan
+               sodipodi:role="line"
+               id="tspan200579"
+               x="-250.05782"
+               y="-509.22696"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke:none;stroke-width:0.645461"
+           x="-13.1548"
+           y="-425.61386"
+           id="text200587"
+           transform="scale(1.0515506,0.95097658)"><tspan
+             sodipodi:role="line"
+             id="tspan200585"
+             x="-13.1548"
+             y="-425.61386"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#008080;fill-opacity:1;stroke-width:0.645461">.co.uk</tspan></text>
+      </g>
+      <g
+         id="g210348"
+         transform="matrix(0.35131448,0,0,0.35131448,80.627673,300.55702)"
+         style="fill:url(#linearGradient219131);fill-opacity:1">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30.0427px;line-height:1.25;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient237659);fill-opacity:1;stroke:none;stroke-width:0.751066"
+           x="-83.686226"
+           y="-550.80377"
+           id="text210328"
+           transform="scale(1.2799536,0.78127832)"><tspan
+             sodipodi:role="line"
+             id="tspan210326"
+             x="-83.686226"
+             y="-550.80377"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:30.0427px;font-family:'URW Bookman';-inkscape-font-specification:'URW Bookman, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient237659);fill-opacity:1;stroke-width:0.751066">GRAVEL</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient237661);fill-opacity:1;stroke:none;stroke-width:0.645461"
+           x="-13.1548"
+           y="-425.61386"
+           id="text210332"
+           transform="scale(1.0515506,0.95097658)"><tspan
+             sodipodi:role="line"
+             id="tspan210330"
+             x="-13.1548"
+             y="-425.61386"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient237661);fill-opacity:1;stroke-width:0.645461">.co.uk</tspan></text>
+        <g
+           id="g210342"
+           transform="matrix(0.96965051,0,0,1,179.49293,27.879892)"
+           style="fill:url(#linearGradient237667);fill-opacity:1">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient237663);fill-opacity:1;stroke:none;stroke-width:0.814599"
+             x="-250.05782"
+             y="-509.22696"
+             id="text210336"
+             transform="scale(1.1765268,0.84995939)"><tspan
+               sodipodi:role="line"
+               id="tspan210334"
+               x="-250.05782"
+               y="-509.22696"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient237663);fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient237665);fill-opacity:1;stroke:none;stroke-width:0.814599"
+             x="-250.05782"
+             y="-509.22696"
+             id="text210340"
+             transform="scale(1.1765268,0.84995939)"><tspan
+               sodipodi:role="line"
+               id="tspan210338"
+               x="-250.05782"
+               y="-509.22696"
+               style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:32.5838px;font-family:Roboto;-inkscape-font-specification:'Roboto, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient237665);fill-opacity:1;stroke-width:0.814599">PLUS</tspan></text>
+        </g>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient237669);fill-opacity:1;stroke:none;stroke-width:0.645461"
+           x="-13.1548"
+           y="-425.61386"
+           id="text210346"
+           transform="scale(1.0515506,0.95097658)"><tspan
+             sodipodi:role="line"
+             id="tspan210344"
+             x="-13.1548"
+             y="-425.61386"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.8181px;font-family:Roboto;-inkscape-font-specification:'Roboto, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient237669);fill-opacity:1;stroke-width:0.645461">.co.uk</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
