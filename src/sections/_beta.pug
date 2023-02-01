@@ -1,0 +1,21 @@
+
+- var vals = ['Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet, consectetur', 'Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur', 'Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur', 'Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur']
+
+section.beta 
+    .liner 
+        .grid
+            .one 
+                .trio-grid 
+                    img(src='./img/sections/drive-land.jpeg').trio-1
+                    img(src='./img/sections/path-land.jpeg').trio-2
+                    img(src='./img/sections/patio-land.jpeg').trio-3
+            .two.center-left 
+                h3 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+                p.beta-drk Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do <br/>
+                    | Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+
+                .grid-list 
+                    each val in vals
+                        .item 
+                            .spot.alpha-mid-bg 
+                            .txt.alpha-mid= val

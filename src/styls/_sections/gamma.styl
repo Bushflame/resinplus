@@ -1,0 +1,15 @@
+.gamma 
+    .grid 
+        grid-template-columns: 1fr
+        grid-template-areas: 'one' 'two'
+        gap 1rem
+        width 100%
+        max-width 400px
+        margin auto
+
+@media(min-width 780px) 
+    .gamma 
+        .grid 
+            grid-template-columns: 1fr 1fr 
+            grid-template-areas: 'one two'
+            max-width 1080px          

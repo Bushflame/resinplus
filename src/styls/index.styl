@@ -1,0 +1,127 @@
+@import './_partials/banner'
+@import './_partials/header'
+@import './_partials/cards'
+@import './_sections/alpha'
+@import './_sections/beta'
+@import './_sections/gamma'
+@import './_sections/delta'
+@import './_partials/ul'
+@import './_partials/grid-ul'
+@import './_partials/cornered'
+html,body,div,img, section, p
+    box-sizing border-box
+    margin 0
+    padding 0
+    max-width 100%
+:root  
+    --alpha-1 #753a0c
+
+    --beta-1 #0D7873
+img  
+    display block
+    max-width 100%
+    object-fit cover
+
+.banner-img 
+    width 100%
+body 
+    position relative
+    min-height 100vh
+    background var(--beta-lgtr)
+    padding-bottom 6rem
+section 
+    padding 2.5rem 1rem
+h1  
+    color var(--beta-mid)
+    text-align center
+    // margin 1rem auto
+    font-size 3rem
+    -webkit-text-fill-color: var(--alpha-mid) // transparent;
+    -webkit-text-stroke: 2px;
+h3 
+    font-size 2rem
+    font-weight 400
+    color var(--alpha-mid)
+p 
+    font-size 1.1rem
+    //color var(--gamma-mid)
+    margin-bottom .6rem
+img 
+    max-width 100%
+// global colors
+
+:root 
+    --alpha-mid #50A6B5;
+
+    --beta-lgtr rgba(241,240,241, 1)
+    --beta-lgt rgb(213,212,215) 
+    --beta-mid #BAB8BD;
+    --beta-drk #6f6e71
+    --beta-drkr #4a494b
+
+    --gamma-mid #5F6855;
+.alpha-mid 
+    color var(--alpha-mid)
+.beta-lgt
+    color var(--beta-lgt)
+.beta-lgtr
+    color var(--beta-lgtr)
+.beta-mid
+    color var(--beta-mid)
+.beta-drk
+    color var(--beta-drk)
+.beta-drkr
+    color var(--beta-drkr)
+
+.gamma-mid 
+    color var(--gamma-mid)
+
+.alpha-mid-bg 
+    background var(--alpha-mid)
+
+.beta-lgtr-bg
+    background var(--beta-lgtr)
+.beta-lgt-bg
+    background var(--beta-lgt)
+.beta-mid-bg
+    background var(--beta-mid)
+.beta-drk-bg
+    background var(--beta-drk)
+.beta-drkr-bg
+    background var(--beta-drkr)
+
+
+.gamma-mid-bg 
+    background var(--gamma-mid)
+//grid areas ------------------------
+.grid 
+    display grid
+.one 
+	grid-area one	
+.two
+	grid-area two
+.three 
+	grid-area three
+.four 
+	grid-area four 
+.five 
+	grid-area five
+.six 
+	grid-area six 
+.seven 
+	grid-area seven
+.eight 
+	grid-area eight
+.foot 
+	grid-area foot
+// flexes
+.center-center
+    display flex
+    flex-direction column
+    align-items center
+    justify-content center
+.center-left
+    display flex
+    flex-direction column
+    align-items left
+    justify-content center

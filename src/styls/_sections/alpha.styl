@@ -1,0 +1,70 @@
+.alpha
+	padding 4rem 1rem
+	.one 
+		max-width 600px
+		color var(--alpha-mid)
+		margin auto
+	.two 
+		height 100%
+		background var(--alpha-mid)
+		padding 2rem 1rem
+		margin-bottom -8px
+	.three 
+		display flex 
+		flex-direction column
+		justify-content center
+		background var(--gamma-mid)
+	.grid 
+		display grid
+		grid-template-columns 1fr
+		grid-template-areas 'one'   'four' 'two' 'five' 'three' 'six'
+		gap 1rem
+		width 100%
+		max-width 600px
+		margin auto
+		padding 0 1rem
+	h3 
+		text-align center
+	// ul 
+	// 	list-style none
+	// 	padding-right 1rem
+	// 	font-size 1rem
+	// 	color var(--beta-lgt)
+		
+	// li 
+	// 	margin-bottom .5rem
+	// 	position relative
+	// 	padding .4rem
+	// 	border-bottom 1px solid var(--beta-mid)
+		
+	// li::after 
+	// 	content ''
+	// 	position absolute
+	// 	left -1.5rem
+	// 	top 0
+	// 	bottom 0
+	// 	width 1rem 
+	// 	height 1rem 
+	// 	border-radius 50%
+	// 	background var(--beta-mid)
+	// 	margin auto 0
+	// 	z-index 2
+	// 	cursor pointer
+@media(min-width 720px)
+	.alpha
+		.grid 
+			grid-template-columns 1fr 1fr
+			grid-template-areas  'one one'  'four five''two three' 'six six'
+			width 100%
+			max-width 960px
+@media(min-width 1440px)
+	.alpha
+		.grid 
+			grid-template-columns 1fr 1fr 1fr 
+			grid-template-areas  'one one one' 'two four five' 'six six three'
+			width 100%
+			max-width 960px
+		.one
+			margin-left 0	
+		h3 
+			text-align left

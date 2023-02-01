@@ -1,0 +1,41 @@
+	.delta
+        .two, .three 
+            margin auto
+            width 100%
+            // max-width 800px
+           // display flex
+           // justify-content center
+        .one 
+            display grid
+            width 100%
+            max-width 480px 
+            margin auto
+        .shadow-box
+            // border 1px solid blue
+            box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+        .grid 
+            display grid
+            grid-template-columns 1fr 
+            grid-template-areas  'one' 'two'  'three'
+            column-gap 2rem
+            row-gap 1rem
+            justify-content center
+            // border 1px solid red
+            width 100%
+            max-width 480px
+            margin auto
+            height fit-content
+	@media(min-width 960px)
+        .delta
+            .grid 
+                grid-template-columns 1fr 1fr
+                grid-template-areas   'one one'	 'two three' 
+                max-width 1020px		
+	@media(min-width 1440px)
+        .delta
+            .grid 
+                grid-template-columns 1fr 1fr 1fr
+                grid-template-areas  'two one three' //'five two six' 'five three six' //'five four six'
+                width 100%
+                max-width 1440px
+ 
