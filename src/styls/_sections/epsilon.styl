@@ -1,0 +1,19 @@
+.epsilon 
+    .grid 
+        grid-template-columns: 1fr
+        grid-template-areas: 'one' 'two' 'three' 'four' 'five' 'six'
+        width 100%
+        max-width 400px
+        margin auto
+@media(min-width 720px)
+    .epsilon
+        .grid 
+            grid-template-columns: 1fr 1fr
+            grid-template-areas: 'one one' 'two two' 'three four' 'five six'
+            max-width 600px
+@media(min-width 900px)
+    .epsilon
+        .grid 
+            grid-template-columns: 1fr 1fr 1fr 1fr
+            grid-template-areas: 'one one two two' 'three four five six'
+            max-width 1080px

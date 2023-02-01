@@ -5,10 +5,12 @@
 @import './_sections/beta'
 @import './_sections/gamma'
 @import './_sections/delta'
+@import './_sections/epsilon'
 @import './_partials/ul'
 @import './_partials/grid-ul'
 @import './_partials/cornered'
-html,body,div,img, section, p
+//@import './_partials/footer'
+html,body,div,img, section, h1, p
     box-sizing border-box
     margin 0
     padding 0
@@ -26,9 +28,10 @@ img
     width 100%
 body 
     position relative
-    min-height 100vh
+    // min-height 100vh
     background var(--beta-lgtr)
-    padding-bottom 6rem
+    bottom -4rem
+    //padding-bottom 6rem
 section 
     padding 2.5rem 1rem
 h1  
@@ -44,12 +47,21 @@ h3
     color var(--alpha-mid)
 p 
     font-size 1.1rem
-    //color var(--gamma-mid)
     margin-bottom .6rem
+
+//positioning
+.fit-h
+    height fit-content
+.fit-w
+    width fit-content
+.text-c 
+    text-align center
 img 
     max-width 100%
+// padding and margins
+.pad-1 
+    padding 1rem
 // global colors
-
 :root 
     --alpha-mid #50A6B5;
 
