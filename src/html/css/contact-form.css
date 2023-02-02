@@ -1,0 +1,1 @@
+.msg-form{display:-ms-grid;display:grid;-ms-grid-columns:1fr 1fr;grid-template-columns:1fr 1fr;grid-template-areas:'one two' 'three three' 'four four';width:100%;max-width:600px;margin:auto}
