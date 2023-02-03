@@ -1,25 +1,30 @@
 
 
-.footer.alpha-mid-bg 
-    .message-form-wrap
-        form(action="https://script.google.com/macros/s/AKfycbzd54YeHi5lUAF3J_FaRYPDwTEkGZ4g3seGNvKofJMrVq8boAC8bLljBFSWLc5YHm-eiQ/exec"  method="post" target="hidden_iframe" onsubmit="submitted=true;" id='myForm').myForm
+.footer#bottom 
+    .grid
+        .one.one-a
+            img(src="./img/phone.svg", alt="phone icon").icon
+            p 7538 743 890
+        .two.two-a 
+            img(src="./img/email.svg", alt="emaail icon").icon
+            p info@resinplus.co.uk
+        .three.message-form-wrap
+            form(action="https://script.google.com/macros/s/AKfycbzd54YeHi5lUAF3J_FaRYPDwTEkGZ4g3seGNvKofJMrVq8boAC8bLljBFSWLc5YHm-eiQ/exec"  method="post" target="hidden_iframe" onsubmit="submitted=true;" id='myForm').myForm
 
-            .set.one 
-                p Name 
-                input(name='Name' type="text").input
-            .set.two 
-                p Email 
-                input(name="Email" type="email" placeholder="Required" required).input
-            .set.three
-                p Message 
-                textarea(name="Message", cols="30", rows="10" resize='none'  placeholder="Required" required).txt-area 
-            .set.four.send
-                input(type="submit" value='Submit')
-                input(type="text" name='Time')#time
-
-
-        #toast 
-            h3 Success! <br/> Your message has been sent and you will be contacted shortly
+                .set.one 
+                    p Name 
+                    input(name='Name' type="text").input
+                .set.two 
+                    p Email 
+                    input(name="Email" type="email" placeholder="Required" required).input
+                .set.three
+                    p Message 
+                    textarea(name="Message", cols="30", rows="10" resize='none'  placeholder="Required" required).txt-area 
+                .set.four.send
+                    input(type="submit" value='Submit')
+                    input(type="text" name='Time')#time
+            #toast 
+                h3 Success! <br/> Your message has been sent and you will be contacted shortly
 
 
         script.
@@ -47,3 +52,6 @@
                 twat()
                 });
             });
+    .foot 
+        a(href="#top") Top
+        p All rights reserved ©resinplus.co.uk(2023)
