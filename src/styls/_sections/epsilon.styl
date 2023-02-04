@@ -1,19 +1,24 @@
 .epsilon 
-    .grid 
+    .grid
         grid-template-columns: 1fr
         grid-template-areas: 'one' 'two' 'three' 'four' 'five' 'six'
-        width 100%
-        max-width 400px
         margin auto
-@media(min-width 720px)
+        //padding 0 1rem
+        width 100%
+    //max-width 400px
+    .two 
+        display flex
+        align-items center
+        justify-content center
+@media(min-width 900px)
     .epsilon
         .grid 
             grid-template-columns: 1fr 1fr
-            grid-template-areas: 'one one' 'two two' 'three four' 'five six'
-            max-width 600px
-@media(min-width 900px)
+            grid-template-areas: 'one  two' 'four three' 'five six'
+            //max-width 600px
+@media(min-width 1440px)
     .epsilon
         .grid 
             grid-template-columns: 1fr 1fr 1fr 1fr
             grid-template-areas: 'one one two two' 'three four five six'
-            max-width 1080px
+            //max-width 1080px

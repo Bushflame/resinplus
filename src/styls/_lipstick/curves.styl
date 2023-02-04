@@ -1,0 +1,27 @@
+//bottom right curve
+.curved-btm-right, .curved-top-left 
+    background var(--beta-lgtr) // put on html
+    position relative
+    width 100% 
+    max-width 100%
+    margin auto
+    //z-index 1
+.curved-btm-right::after, .curved-top-left::after
+    content ''
+    //background #fff
+    //border-radius  0 0  100% 0
+    position absolute
+    height 100%
+    width 100%
+    z-index 0
+
+.curved-btm-right
+    background  var(--beta-lgtr) 
+    border-radius  0 0  100% 0
+    left 0 //1rem //0//.5rem
+    right 0 ///.5rem
+    top 0
+.curved-top-left
+    border-radius  0 100% 0 0
+    left 0
+    top 0
