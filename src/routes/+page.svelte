@@ -1,5 +1,6 @@
 <script>
-	import Banner from '$lib/partials/banner.svelte';
+	//import Banner from '$lib/partials/banner.svelte';
+	import Banner from '$lib/partials/banner-set.svelte';
 	import Header from '$lib/partials/header.svelte';
 	import List from '$lib/partials/list.svelte';
 	import TopBar from '$lib/partials/top-bar.svelte';
@@ -8,7 +9,7 @@
 	import TwoGridQuoted from '$lib/partials/two-grid-quoted.svelte';
 	import ContactForm from '$lib/partials/contact-form.svelte';
 	import Address from '$lib/partials/address.svelte';
-	import Curve from '$lib/partials/curve.svelte';
+
 	import Footer from '$lib/partials/footer.svelte';
 	let bannerList = [
 		'The eco-friendly solution',
@@ -30,22 +31,23 @@
 	];
 </script>
 
-<TopBar txt_1="0123 456 789 &nbsp;&nbsp; 01709 888110 &nbsp;&nbsp; info@resinplus.co.uk" />
+<!-- <TopBar txt_1="0123 456 789 &nbsp;&nbsp; 01709 888110 &nbsp;&nbsp; info@resinplus.co.uk" /> -->
 
-<Header />
-<Banner
+<!-- <Header /> -->
+<!-- <Banner
 	title={'RESIN GRAVEL SURFACING'}
 	txt={'Drives, Paths and Patios'}
 	linkTo={'/#contact'}
 	linkTxt={'Contact'}
 >
 	<List
-		--list-color="var(--alpha-mid)"
+		--list-color="var(--gamma-lgt)"
 		--li-bg="transparent"
-		--li-bdr="1px solid var(--alpha-mid)"
+		--li-bdr="1px solid var(--gamma-lgt)"
 		arr={bannerList}
 	/>
-</Banner>
+</Banner> -->
+<Banner />
 <section>
 	<TwoGridQuoted>
 		<Trio
@@ -55,7 +57,7 @@
 		/>
 	</TwoGridQuoted>
 </section>
-<section style="background: var(--gamma-lgtr">
+<section style="background: var(--gamma-lgtr); margin: 0 16px">
 	<TwoHeadFoot>
 		<h2 slot="head">Sustainable Drainage Systems (SuDS)</h2>
 		<span slot="one">
@@ -121,5 +123,5 @@
 
 <style lang="stylus">
 section 
-	padding 6rem 1rem 4rem
+	padding 4rem 1rem 2rem
 </style>

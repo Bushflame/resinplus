@@ -4,7 +4,7 @@
 <div class="grid">
 	<div class="set">
 		<span class="left">Tel:</span>
-		<span class="right">0123 456 789</span>
+		<span class="right">01709 252159</span>
 		<span class="left" />
 		<span class="right">7538 743 890</span>
 	</div>
@@ -14,7 +14,10 @@
 	</div>
 	<div class="set">
 		<span class="left">FBook:</span>
-		<span class="right">Visit</span>
+		<span class="right"
+			><a href="https://www.facebook.com/profile.php?id=100091268534913" target="_blank">Visit</a
+			></span
+		>
 	</div>
 	<div class="set-a">
 		<p>Unit 1a <br /> Low Valley Industrial Estate <br />Wombwell<br />Barnsley</p>
@@ -33,6 +36,7 @@ p
     display grid 
     gap .6rem
     grid-template-columns 1fr
+    margin-top 32px auto
     padding 16px
     max-width 400px
     width 100%
@@ -46,6 +50,6 @@ p
 .set-a 
     background rgba(255,2555,255, .1)
     padding 6px
-// .left 
-//     text-align right
+a  
+    color #fff
 </style>

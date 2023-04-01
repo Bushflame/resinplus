@@ -89,7 +89,7 @@
     grid-template-columns: 1fr
     width 100%
     max-width 400px
-    margin auto
+    padding 32px auto
     #toast, form 
         grid-area 1 / 1
 .one 

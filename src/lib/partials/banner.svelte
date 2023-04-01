@@ -7,6 +7,7 @@
 </script>
 
 <div class="wrap">
+	<img src="/img/svg/logo.svg" alt="" />
 	<div class="grid main">
 		<div class="item one">
 			<h1>{title}</h1>
@@ -23,14 +24,17 @@
 <style lang="stylus">
 
 .wrap 
-    background var(--gamma-lgtr)
+    background var(--alpha-drk)
     //background transparent
     display flex 
+    align-items center
+    flex-direction column
     justify-content center
+    padding 32px 16px
     position relative
     z-index 2
  .wrap::after
-    background #fff
+    background var(--beta-drkr) //#fff
     border-radius 0 0 100% 0 
     content ''
     position absolute
@@ -39,16 +43,18 @@
     width 100%
     height 100%
     z-index -1
+img 
+    width 160px
 h1
     //border 1px solid red
-    color var(--alpha-mid)
+    color var(--gamma-lgt)
     font-size 3rem
     padding 16px 0
 
 a 
     //background var(--beta-mid)
-    border 1px solid var(--alpha-mid)
-    color var(--alpha-mid)
+    border 1px solid var(--gamma-lgt)
+    color var(--gamma-lgt)
     display block
     font-size 16px
     margin  2rem auto 
@@ -64,7 +70,7 @@ a
     text-align center
     padding 1rem
     p 
-        color var(--alpha-drk)
+        color var(--gamma-lgt)
         font-size 1.6rem
 .two 
     //border 1px solid #fff

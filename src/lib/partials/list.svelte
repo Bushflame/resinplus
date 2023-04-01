@@ -18,7 +18,7 @@ ul
     list-style none
 li 
     position relative  
-    //border 1px solid red
+   // border 1px solid red
 li::after 
     background var(--li-bg)
     border var(--li-bdr)

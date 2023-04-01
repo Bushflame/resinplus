@@ -5,24 +5,26 @@
 <div class="headline">
 	<p>{txt_1} &nbsp;</p>
 </div>
-<div class="top">
+
+<!-- <div class="top">
 	<img src="/img/svg/logo.svg" alt="" />
-</div>
+</div> -->
 
 <style lang="stylus">
 .headline 
     background var(--alpha-drk)
     color #fff
-    padding .8rem
+    padding 16px 8px
+    //background red
 p 
     color #fff
     line-height 1.4
-    margin auto
+    margin 0 auto
     max-width 1020px
     text-align right
     width 100%
 .top  
-    //border 1px solid blue
+    border 1px solid blue
     display flex 
     align-items center
     justify-content space-between
