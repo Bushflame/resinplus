@@ -15,7 +15,9 @@
 	<div class="wrap-liner">
 		<div class="grid">
 			<div class="headings one">
-				<img src="/img/svg/logo.svg" alt="" class="logo" />
+                <!-- <div class="img-wrap"> -->
+				<img src="/img/svg/logo.png" alt="" class="logo" />
+            <!-- </div> -->
 				<h1>RESIN<br /><span>GRAVEL</span></h1>
 				<p>Driveways<br />Paths<br />Patios</p>
 				<a href="#contact" class="a-one">Message</a>
@@ -118,14 +120,20 @@
 
 .address  
     display none
-.logo
-    margin  32px auto
-    //padding-top 4rem
-    //width 200px
-    //height 150px
+
+.img-wrap 
+    border 1px solid red
+    width 195px //360px
+    height 110px //240px
+    margin auto
+    position relative
 img 
-    height 112px
-    width 192px
+    height 100%
+
+    margin auto
+    max-height 110px //100%
+    max-width 195px //100%
+    width 100%
 
 h1  
     color var(--gamma-lgt)
