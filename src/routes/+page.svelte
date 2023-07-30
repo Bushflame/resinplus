@@ -47,6 +47,7 @@
 		arr={bannerList}
 	/>
 </Banner> -->
+
 <Banner />
 <section>
 	<TwoGridQuoted>

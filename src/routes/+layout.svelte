@@ -1,9 +1,13 @@
 <script>
 </script>
-
+hello world
+<h1>hello world</h1>
 <slot />
 
 <style lang="stylus" global>
+h1 {
+    color:red;
+}
 html,body,div,img, section, h1, p, input, textarea, form, img
     box-sizing border-box
     margin 0

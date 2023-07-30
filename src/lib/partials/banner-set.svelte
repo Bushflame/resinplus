@@ -10,7 +10,7 @@
 	];
 </script>
 
-<div class="top-bar">01709 252159 | 7538 743 890<br />info@resinplus.co.uk</div>
+<div class="top-bar">01709 252159 | 0753 8743 890<br />info@resinplus.co.uk</div>
 <div class="wrap">
 	<div class="wrap-liner">
 		<div class="grid">
